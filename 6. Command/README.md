@@ -1,10 +1,6 @@
 # Patterns Submission
 
-Team members:
-
-Bui Vu Khoa - 10421028
-
-Pham Tuan Kiet - 10421033
+Slides and presentation for the Command pattern
 
 # Links to videos:
 

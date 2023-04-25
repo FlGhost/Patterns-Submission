@@ -1,11 +1,7 @@
-# Patterns Submission
+# Contents
 
-Team members:
-
-Bui Vu Khoa - 10421028
-
-Pham Tuan Kiet - 10421033
+Slides and presentation for the Decorator pattern
 
 # Links to videos:
 
-Decorator: https://youtu.be/iXIO3nzaTO4
+Observer: https://youtu.be/iXIO3nzaTO4
