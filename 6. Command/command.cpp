@@ -135,7 +135,7 @@ class stereoOnCommand : public command
         void execute()
         {
             Stereo->on();
-            Stereo->setCD("Never Gonna Give You Up");
+            Stereo->setCD("A Cool Song");
             Stereo->setVolume(7);
         }
         string getClassName()
@@ -165,7 +165,7 @@ class stereoOffCommand : public command
         void undo()
         {
             Stereo->on();
-            Stereo->setCD("Never Gonna Give You Up");
+            Stereo->setCD("A Cool Song");
             Stereo->setVolume(7);
         }
 };
@@ -214,7 +214,7 @@ class garageDoorOffCommand : public command
         }
 };
 
-// Nut bam 1 lan nhieu lenh se chay
+//
 class macroCommand : public command
 {
     private:
@@ -242,7 +242,7 @@ class macroCommand : public command
         }
 };
 
-// Invoker (ke trung gian)
+// Invoker 
 class remoteControl
 {
     private:
