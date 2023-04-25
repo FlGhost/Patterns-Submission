@@ -18,4 +18,4 @@ Singleton: https://youtu.be/Kn3R3VoHx5w
 
 Command: https://youtu.be/EQNcWqRmZU0
 
-Facade and adapter:
+Facade and adapter: https://youtu.be/EQNcWqRmZU0
